@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on React runtime plugable interfaces
 - 🤔 I’m looking for help with genealogy tree layout algorithm
 - 💬 Ask me about unicorns
-- ⚡ Fun fact: I leave in a jungle
+- ⚡ Fun fact: I lived in a jungle
 
 <br/>
 
